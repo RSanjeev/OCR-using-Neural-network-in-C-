@@ -4,6 +4,6 @@
   ## Prerequisites 
       - Code Blocks
   
-  ##Running the code
+  ## Running the code
     Open .cbp file in Code Blocks, build and run it.
-    *This project uses windows.h header file for printing the image of digits*
+    This project uses windows.h header file for printing the image of digits from dataset.
