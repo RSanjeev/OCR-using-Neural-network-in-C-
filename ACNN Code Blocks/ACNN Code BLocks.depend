@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1478368336 source:c:\users\r.sanjeev\desktop\acnn code blocks\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<fstream>
+	<vector>
+	<time.h>
+	<windows.h>
+
+1474714666 c:\users\r.sanjeev\desktop\acnn code blocks\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
